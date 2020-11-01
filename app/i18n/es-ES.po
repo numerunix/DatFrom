@@ -1,0 +1,8 @@
+msgid "Hai incontrato"
+msgstr "Conosciste a"
+
+msgsid "circa"
+msgstr "hace"
+
+msgid "giorni fa"
+msgstr "dias"

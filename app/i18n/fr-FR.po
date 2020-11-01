@@ -1,0 +1,8 @@
+msgid "Hai incontrato"
+msgstr "Vous avez rencontré"
+
+msgid "circa"
+msgstr "il y a"
+
+msgid "giorni fa"
+msgstr "jours"
