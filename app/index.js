@@ -33,6 +33,8 @@ messaging.peerSocket.onmessage = evt => {
         avviso.text=gettext("E' il vostro anniversario");
       else
         avviso.text=gettext("E' il vostro meseversario");
+    else
+        avviso.text=""
     mydata=new Date(mydata.name).getTime();
     mydata = Date.now() - mydata;
     mydata=Math.floor(mydata / (1000 * 3600 * 24));
@@ -54,6 +56,8 @@ messaging.peerSocket.onmessage = evt => {
         avviso1.text=gettext("E' il vostro anniversario");
       else
         avviso1.text=gettext("E' il vostro meseversario");
+    else
+        avviso1.text=""
     mydata1=new Date(mydata1.name).getTime();
     mydata1 = Date.now() - mydata1;
     mydata1=Math.floor(mydata1 / (1000 * 3600 * 24));
@@ -75,6 +79,8 @@ messaging.peerSocket.onmessage = evt => {
         avviso2.text=gettext("E' il vostro anniversario");
       else
         avviso2.text=gettext("E' il vostro meseversario");
+    else
+        avviso2.text=""
 
     mydata2=new Date(mydata2.name).getTime();
     mydata2 = Date.now() - mydata2;
