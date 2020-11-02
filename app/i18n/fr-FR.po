@@ -6,3 +6,9 @@ msgstr "il y a"
 
 msgid "giorni fa"
 msgstr "jours"
+
+msgid "E' il vostro anniversario"
+msgstr "Es tu aniversario"
+
+msgid "E' il vostro meseversario"
+msgstr "C'est ton anniversaire"
