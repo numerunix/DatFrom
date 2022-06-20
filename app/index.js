@@ -92,10 +92,11 @@ messaging.peerSocket.onmessage = evt => {
 
 };
 
-
-
 // Message socket opens
 messaging.peerSocket.onopen = () => {
+  console.log("Copyright \u00A92020 Giulio Sorrentino<gsorre84@gmail.com>");
+  console.log("This program is inspired by commercial product \"Days Together\"");
+  console.log("This program is distribuited under GPL. No Warranty is provided.");
   console.log("App Socket Open");
 };
 
@@ -103,7 +104,3 @@ messaging.peerSocket.onopen = () => {
 messaging.peerSocket.onclose = () => {
   console.log("App Socket Closed");
 };
-
-console.log("Copyright \u00A92020 Giulio Sorrentino<gsorre84@gmail.com>");
-console.log("This program is inspired by commercial product \"Days Together\"");
-console.log("This program is distribuited under GPL. No Warranty is provided.");
