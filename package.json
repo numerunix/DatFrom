@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "@fitbit/sdk": "~4.2.0"
+    "@fitbit/sdk": "~4.3.0"
   },
   "fitbit": {
     "appUUID": "ae996709-9bfb-4d04-94d2-0623edcf261f",
@@ -15,8 +15,20 @@
     "i18n": {
       "en-US": {
         "name": "DateFrom"
+      },
+      "de-DE": {
+        "name": "DateFrom"
+      },
+      "es-ES": {
+        "name": "DateFrom"
+      },
+      "fr-FR": {
+        "name": "DateFrom"
+      },
+      "it-IT": {
+        "name": "DateFrom"
       }
     },
-    "defaultLanguage": "en-US"
+    "defaultLanguage": "it-IT"
   }
 }
