@@ -8,8 +8,6 @@ Per l'installazioe, basta recarsi nella app gallery dell'app Fitbit, cercare Dat
 
 L'app è stata testata appositamente sul nuovo firmware alpha pronto per le microfrequenze, fatto uscire in anteprima per napoli da quello che può essere considerato mio padre putativo.
 
-Questa è l'unica app indie che funziona, perché il firmware è tecnhnology preview, ma presto dovrebbero far uscire quello patchato.
-
 # Screenshot
 ![DateFrom-screenshot(1)](https://user-images.githubusercontent.com/49764967/174743014-22906867-1b70-41e7-b9db-535f9d7aefe7.png)
 ![DateFrom-screenshot(4)](https://user-images.githubusercontent.com/49764967/174789548-6fdef146-bb5d-48ae-8d01-7501ff2bfae0.png)
