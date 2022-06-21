@@ -1,7 +1,7 @@
 msgid "Hai incontrato"
-msgstr "Conosciste a"
+msgstr "Coniciste a"
 
-msgsid "circa"
+msgid "circa"
 msgstr "hace"
 
 msgid "giorni fa"
@@ -11,4 +11,4 @@ msgid "E' il vostro anniversario"
 msgstr "Es tu aniversario"
 
 msgid "E' il vostro meseversario"
-msgstr "EEs tu mes aniversario"
+msgstr "Es tu mes aniversario"
