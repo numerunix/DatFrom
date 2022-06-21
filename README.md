@@ -12,7 +12,7 @@ Questa è l'unica app indie che funziona, perché il firmware è tecnhnology pre
 
 # Screenshot
 ![DateFrom-screenshot(1)](https://user-images.githubusercontent.com/49764967/174743014-22906867-1b70-41e7-b9db-535f9d7aefe7.png)
-![DateFrom-screenshot](https://user-images.githubusercontent.com/49764967/174743021-ebea6107-74c2-4c9d-9bf7-84cc38de537a.png)
+![DateFrom-screenshot(4)](https://user-images.githubusercontent.com/49764967/174789548-6fdef146-bb5d-48ae-8d01-7501ff2bfae0.png)
 ![DateFrom-screenshot(2)](https://user-images.githubusercontent.com/49764967/174745594-2329e232-fe40-4e2b-a074-b298fe7bd5dc.png)
 
 ![Screenshot (21 giu 2022 09 27 58)](https://user-images.githubusercontent.com/49764967/174743127-e3eade81-c6a5-474e-b9bb-5c2bc7a5749c.png)
