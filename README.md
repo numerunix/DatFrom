@@ -9,7 +9,8 @@ Per l'installazioe, basta recarsi nella app gallery dell'app Fitbit, cercare Dat
 L'app è stata testata appositamente sul nuovo firmware alpha pronto per le microfrequenze, fatto uscire in anteprima per napoli da quello che può essere considerato mio padre putativo.
 
 # Screenshot
+<img width="1098" alt="Immagine 2022-06-22 174347" src="https://user-images.githubusercontent.com/49764967/175076021-d23ff9d6-965a-4bdc-8996-7d5e35b834b6.png">
 
-<img width="1098" alt="Immagine 2022-06-22 174347" src="https://user-images.githubusercontent.com/49764967/175075906-b0631379-b9e3-4a35-8b07-2585d882769d.png">
-<img width="841" alt="Immagine 2022-06-22 174314" src="https://user-images.githubusercontent.com/49764967/175075915-056d6042-b11a-466c-baac-a98297c5507f.png">
-<img width="850" alt="Immagine 2022-06-22 174259" src="https://user-images.githubusercontent.com/49764967/175075918-9936b3bd-b1c8-4988-b860-4f3185f2d340.png">
+<img width="1088" alt="Immagine 2022-06-22 174838" src="https://user-images.githubusercontent.com/49764967/175076287-95355bea-451a-4732-9c6c-8e0900a075e3.png">
+<img width="1105" alt="Immagine 2022-06-22 174909" src="https://user-images.githubusercontent.com/49764967/175076361-8944bdc2-2952-4a39-8be3-825556c5dab8.png">
+<img width="1085" alt="Immagine 2022-06-22 174935" src="https://user-images.githubusercontent.com/49764967/175076375-163bd123-11a4-40f6-8bb6-0a02740b1e46.png">
