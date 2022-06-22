@@ -17,7 +17,7 @@ function mySettings(props) {
         />
       </Section>
       <Section
-        title={<Text bold align="center">Primo animale</Text>}>
+        title={<Text bold align="center">Seconda Persona</Text>}>
         <TextInput
           label="Nome: "
           title="Nome1"
@@ -32,7 +32,7 @@ function mySettings(props) {
         />
       </Section>
       <Section
-        title={<Text bold align="center">Secondo animale</Text>}>
+        title={<Text bold align="center">Terza persona</Text>}>
         <TextInput
           label="Nome: "
           title="Nome2"
@@ -45,6 +45,8 @@ function mySettings(props) {
           settingsKey="day2"
           type="text" 
         />
+      {<Text bold align="center">Creato da Giulio Sorrentino</Text>}
+      {<Text bold align="center">Dedicato a Francesca Milano</Text>}
       </Section>
     </Page>
   );
