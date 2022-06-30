@@ -3,17 +3,17 @@ import { gettext } from "i18n";
 import * as messaging from "messaging";
 
 
-let data = document.getElementById("data");
-let nome = document.getElementById("nome");
-let avviso = document.getElementById("avviso");
+var data = document.getElementById("data");
+var nome = document.getElementById("nome");
+var avviso = document.getElementById("avviso");
 
-let data1 = document.getElementById("data1");
-let nome1 = document.getElementById("nome1");
-let avviso1 = document.getElementById("avviso1");
+var data1 = document.getElementById("data1");
+var nome1 = document.getElementById("nome1");
+var avviso1 = document.getElementById("avviso1");
 
-let data2 = document.getElementById("data2");
-let nome2 = document.getElementById("nome2");
-let avviso2 = document.getElementById("avviso2");
+var data2 = document.getElementById("data2");
+var nome2 = document.getElementById("nome2");
+var avviso2 = document.getElementById("avviso2");
 
 
 // Message is received
