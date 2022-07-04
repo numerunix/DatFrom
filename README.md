@@ -3,10 +3,13 @@ App Fitbit per monitorare il tempo passato dalla nascita dei tuoi affetti
 
 # Installazione
 
-
-Per l'installazioe, basta recarsi nella app gallery dell'app Fitbit, cercare DateFrom e installarla.
+Per l'installazione, basta recarsi nella app gallery dell'app Fitbit, cercare DateFrom e installarla.
 
 L'app è stata testata appositamente sul nuovo firmware alpha pronto per le microfrequenze, fatto uscire in anteprima per napoli da quello che può essere considerato mio padre putativo.
+
+# Donazioni
+
+Se vuoi, puoi donare qualcosa, secondo la tua propria opinione, con paypal, per il prezioso lavoro svolto.
 
 # Screenshot
 
