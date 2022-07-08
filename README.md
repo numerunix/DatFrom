@@ -11,6 +11,8 @@ L'app è stata testata appositamente sul nuovo firmware alpha pronto per le micr
 
 [![paypal](https://www.paypalobjects.com/it_IT/IT/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H4ZHTFRCETWXG)
 
+oppure puoi fare una donazione tramite carta hype.
+
 # Screenshot
 
 <img width="1088" alt="Immagine 2022-06-22 174838" src="https://user-images.githubusercontent.com/49764967/175076287-95355bea-451a-4732-9c6c-8e0900a075e3.png">
