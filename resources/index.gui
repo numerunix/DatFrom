@@ -1,5 +1,5 @@
 <svg>
-    <image href="background.png" />
+<svg viewport-fill="fb-black">
     <use href="#scrollview">
       <use href="#scrollview-item" height="300">
         <text id="avviso" x="50%" y="100%-25" class="avvisoText"></text>
