@@ -11,7 +11,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>461cd1d1-8d10-45ad-a9f4-985ae6f23491</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>app.js</StartupFile>
+    <StartupFile>
+    </StartupFile>
     <StartWebBrowser>False</StartWebBrowser>
     <SearchPath>
     </SearchPath>
@@ -28,9 +29,28 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="app.js" />
+    <Content Include="app\i18n\de-DE.po" />
+    <Content Include="app\i18n\en-US.po" />
+    <Content Include="app\i18n\es-ES.po" />
+    <Content Include="app\i18n\fr-FR.po" />
+    <Content Include="app\i18n\it-IT.po" />
+    <Content Include="app\index.js" />
+    <Content Include="companion\index.js" />
     <Content Include="package.json" />
     <Content Include="README.md" />
+    <Content Include="resources\background.png" />
+    <Content Include="resources\icon.png" />
+    <Content Include="resources\index.gui" />
+    <Content Include="resources\styles.css" />
+    <Content Include="resources\widgets.def" />
+    <Content Include="settings\index.jsx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="app\" />
+    <Folder Include="app\i18n\" />
+    <Folder Include="companion\" />
+    <Folder Include="resources\" />
+    <Folder Include="settings\" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\Node.js Tools\Microsoft.NodejsToolsV2.targets" />
 </Project>
