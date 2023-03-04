@@ -1,0 +1,29 @@
+<svg>
+<svg viewport-fill="fb-black">
+    <use href="#scrollview">
+      <use href="#scrollview-item" height="300">
+        <text id="avviso" x="50%" y="100%-25" class="avvisoText"></text>
+        <text x="50%" y="25%+15" class="defaultText">_Hai incontrato</text>
+        <text id ="nome" x="50%" y="50%+15" class="boldText">#nome</text>
+        <text x="25%" y="75%+15" class="defaultText">_circa</text>
+        <text id ="data" x="43%" y="75%+15" class="defaultText">## </text>
+        <text x="67%" y="75%+15" class="defaultText">_giorni fa</text>
+       </use>
+      <use href="#scrollview-item" height="300">
+        <text id="avviso1" x="50%" y="100%-25" class="defaultText"></text>
+        <text x="50%" y="25%+15" class="defaultText">_Hai incontrato</text>
+        <text id ="nome1" x="50%" y="50%+15" class="boldText">#nome</text>
+        <text x="25%" y="75%+15" class="defaultText">_circa</text>
+        <text id ="data1" x="43%" y="75%+15" class="defaultText">## </text>
+        <text x="67%" y="75%+15" class="defaultText">_giorni fa</text>
+       </use>
+      <use href="#scrollview-item" height="300">
+        <text id="avviso2" x="50%" y="100%-25" class="defaultText"></text>
+        <text x="50%" y="25%+15" class="defaultText">_Hai incontrato</text>
+        <text id ="nome2" x="50%" y="50%+15" class="boldText">#nome</text>
+        <text x="25%" y="75%+15" class="defaultText">_circa</text>
+        <text id ="data2" x="43%" y="75%+15" class="defaultText">## </text>
+        <text x="67%" y="75%+15" class="defaultText">_giorni fa</text>
+       </use>
+    </use>
+</svg>
