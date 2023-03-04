@@ -7,15 +7,19 @@
     "@fitbit/sdk": "~4.3.0"
   },
   "fitbit": {
-    "appUUID": "",
+    "appUUID": "61b4a929-f73c-4946-b706-da1fafb199bf",
     "appType": "app",
     "appDisplayName": "DateFrom",
     "iconFile": "resources/icon.png",
     "wipeColor": "#607d8b",
     "requestedPermissions": [],
     "buildTargets": [
-      "higgs"
+      "higgs",
+      "meson",
+      "gemini",
+      "mira"
     ],
+
     "i18n": {
       "en-US": {
         "name": "DateFrom"
